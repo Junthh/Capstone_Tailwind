@@ -82,11 +82,11 @@ h2 {
 
 @media (min-width: 992px) {
   .text-cus {
-    font-size: 21px;
+    font-size: 20px;
   }
 
   .ul-cus{
-    justify-content: center;
+    margin-left: 25px;
   }
 }
 
